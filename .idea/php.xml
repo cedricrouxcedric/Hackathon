@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration tool_path="$PROJECT_DIR$/simple-api-rest/vendor/bin/phpmd" />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/simple-api-rest/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/simple-api-rest/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/phpro/grumphp" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/neon" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/di" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/bootstrap" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/nette/finder" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/gitonomy/gitlib" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/composer" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/simple-api-rest/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+</project>
